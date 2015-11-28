@@ -13,8 +13,8 @@ class q6_3_2
             int bin;
             bin=n%2;
             n/=2;
-            System.out.println(bin);
             b_number(n);
+            System.out.println(bin);
         }
         return 0;
     }
